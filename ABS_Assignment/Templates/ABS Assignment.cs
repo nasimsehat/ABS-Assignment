@@ -55,8 +55,7 @@ public partial class ABS_Assignment : GH_ScriptInstance
     {
         // <Custom code>
 
-        //requesting to merge local master to gib master 2
-        //sending git to jake local
+        //Trial completed
 
         // </Custom code>
     }
