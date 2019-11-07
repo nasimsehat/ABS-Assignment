@@ -67,7 +67,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="ICD.AbmFramework.Core">
-      <HintPath>..\..\..\Framework\ICD.AbmFramework.Core.dll</HintPath>
+      <HintPath>..\ReferencedAssemblies\6.0.18016.23451\ICD.AbmFramework.Core.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />

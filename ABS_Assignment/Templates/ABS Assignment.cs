@@ -55,8 +55,7 @@ public partial class ABS_Assignment : GH_ScriptInstance
     {
         // <Custom code>
 
-        //Trial completed
-
+        
         // </Custom code>
     }
 
