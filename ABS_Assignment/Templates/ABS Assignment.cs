@@ -55,7 +55,7 @@ public partial class ABS_Assignment : GH_ScriptInstance
     {
         // <Custom code>
 
-        //new branch from PC from jake branch_Edited
+        //Jake edited Jake_Branch from PC
 
         // </Custom code>
     }
