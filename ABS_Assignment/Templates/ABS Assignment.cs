@@ -55,7 +55,7 @@ public partial class ABS_Assignment : GH_ScriptInstance
     {
         // <Custom code>
 
-        //requesting to merge from PC master branch to github master branch
+        //requesting to merge local master to gib master 2
         
 
         // </Custom code>
