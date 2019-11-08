@@ -59,8 +59,7 @@ public partial class ABS_Assignment : GH_ScriptInstance
     private void RunScript(object x, object y, ref object A)
     {
         // <Custom code>
-        //hi nas demo
-        //nas to jake pc
+
         // </Custom code>
     }
 
